@@ -1,0 +1,18 @@
+{
+  "market": "synthetic_index",
+  "submarket": "random_index",
+  "symbol": "1HZ10V",
+  "trade_type": "overunder",
+  "contract_type": "both",
+  "candle_interval": 60,
+  "time_machine_enabled": false,
+  "restart_on_error": true,
+  "initial_stake": 30.0,
+  "take_profit": 10.0,
+  "stop_loss": 300.0,
+  "martingale_multiplier": 1.3,
+  "under_prediction": 8,
+  "over_prediction": 6,
+  "max_trades": 20,
+  "max_duration": 300
+}
